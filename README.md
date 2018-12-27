@@ -5,6 +5,7 @@ Students in programming team are recommended to at least attempt the PID challen
 try it out!
 ---
 the PID challenge is run in Jupyter notebooks. To try it out:
+
  0. Make sure you've installed python and jupyter
   - I've used [python 2.7](https://www.python.org/downloads/release/python-2715/) for this, but 3.6 should work fine
   - [install jupyter using pip](https://jupyter.org/install)
