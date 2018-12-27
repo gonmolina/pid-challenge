@@ -5,8 +5,10 @@ Students in programming team are recommended to at least attempt the PID challen
 try it out!
 ---
 the PID challenge is run in Jupyter notebooks. To try it out:
+ 0. Create a github account and download a [git client](https://github.com/pumatech-robotics/pid-challenge.git)
  1. fork this repository
- 2. clone it to your computer
+ 2. clone your forked repo to your computer
+  - open a terminal/cmd prompt then copy/paste ```git clone https://github.com/pumatech-robotics/pid-challenge.git```
  3. try it out [(PIDChallenge.ipynb)](PIDChallenge.ipynb)
  4. push your changes to your fork so we can see the submissions!
  5. Email us at [pinnaclefrc@gmail.com](pinnaclefrc@gmail.com)
