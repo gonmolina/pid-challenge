@@ -12,7 +12,7 @@ the PID challenge is run in Jupyter notebooks. To try it out:
  1. Create a github account and download a [git client](https://github.com/pumatech-robotics/pid-challenge.git)
  2. fork this repository
  3. clone your forked repo to your computer
-  - open a terminal/cmd prompt then copy/paste ```git clone https://github.com/pumatech-robotics/pid-challenge.git```
+  - open a terminal/cmd prompt then copy/paste ```git clone [link to your forked repo, remove brackets]```
  4. try it out [(PIDChallenge.ipynb)](PIDChallenge.ipynb)
  5. push your changes to your fork so we can see the submissions!
  6. Email us at [pinnaclefrc@gmail.com](pinnaclefrc@gmail.com)
